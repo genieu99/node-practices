@@ -1,0 +1,20 @@
+## maven
+**/target
+**/build
+**/out
+
+## eclipse
+**/.settings
+**/.classpath
+**/.project
+
+## intellij
+**/.idea
+
+## npm
+**/node_modules
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
